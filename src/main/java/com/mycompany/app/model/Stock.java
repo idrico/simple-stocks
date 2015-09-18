@@ -4,7 +4,7 @@ import com.mycompany.app.enumeration.StockSymbolEnum;
 import com.mycompany.app.enumeration.StockTypeEnum;
 
 /**
- * Created by verdian on 16/09/2015.
+ * Created by Angelo Verdicchio on 17/09/2015.
  */
 public class Stock {
 
