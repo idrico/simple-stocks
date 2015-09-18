@@ -9,7 +9,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 import static org.junit.Assert.assertEquals;
-
+/**
+ * Created by Angelo Verdicchio on 17/09/2015.
+ */
 public class SimpleStockEngineImplTest {
 
     private static final double DELTA = 1e-15;
