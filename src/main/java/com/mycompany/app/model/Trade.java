@@ -3,7 +3,7 @@ package com.mycompany.app.model;
 import com.mycompany.app.enumeration.TradeTypeEnum;
 
 /**
- * Created by verdian on 16/09/15.
+ * Created by Angelo Verdicchio on 17/09/15.
  */
 public class Trade {
 
