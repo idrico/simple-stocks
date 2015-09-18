@@ -10,6 +10,9 @@ import com.mycompany.app.utility.Utility;
 
 import java.util.*;
 
+/**
+ * Created by Angelo Verdicchio on 17/09/2015.
+ */
 
 public class App
 {
