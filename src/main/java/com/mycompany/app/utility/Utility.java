@@ -1,7 +1,7 @@
 package com.mycompany.app.utility;
 
 /**
- * Created by anonymous on 16/09/15.
+ * Created by Angelo Verdicchio on 17/09/2015.
  */
 public class Utility {
 
