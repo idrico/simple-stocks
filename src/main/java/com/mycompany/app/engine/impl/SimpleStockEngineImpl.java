@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by verdian on 17/09/2015.
+ * Created by Angelo Verdicchio on 17/09/2015.
  */
 public class SimpleStockEngineImpl implements SimpleStockEngine {
 
