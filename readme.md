@@ -9,9 +9,7 @@ What is it?
 
 This is an implementation of the Super Simple Stocks. For the first release it has been implemented the base functionality.
 The next development could provide:
- A detailed implementation  of the unit test. In the source code you can find only an example of implementation;
- Use of the float price;
- Use of a DB to store the information;
+ A detailed implementation  of the unit test (in the source code you can find only an example of implementation), use of the float price, Use of a DB to store the information.
 
 
 System requirements
